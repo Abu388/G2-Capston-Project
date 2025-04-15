@@ -5,6 +5,7 @@ import Commentform from "../components/commentform"
 import Footer from '../components/Footer'
 
 
+
 const Blog = () => {
   return (
     <div className="pt-20 bg-white">
